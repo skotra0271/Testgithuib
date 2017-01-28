@@ -1,2 +1,4 @@
 hello world
 Second line
+
+welcome to second file
